@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.border-for-team {
+  border: 2px solid green;
+  border-radius: 10px;
+  text-align: center;
+  width: 500px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.link-styles {
+  text-decoration: none;
+  color: black;
+}

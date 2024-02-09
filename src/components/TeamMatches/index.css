@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.border-recebt-matches {
+  border: 2px solid red;
+  text-align: center;
+  margin-top: 10px;
+  border-radius: 20px;
+}
